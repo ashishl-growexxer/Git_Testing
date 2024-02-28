@@ -1,1 +1,8 @@
- I am using Rebase command 
+ I am using Rebase command
+
+Now i am adding more commits to alter it
+
+Adding 2 commits and calling for 2 in rebase does'nt seem to work
+
+I will try to use one more edit
+  
